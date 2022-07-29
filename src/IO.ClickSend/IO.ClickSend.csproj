@@ -5,8 +5,11 @@
     <Company>ClickSend</Company>
     <OutputType>Library</OutputType>
     <PackageOutputPath>bin\Package</PackageOutputPath>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FireMate-Software/clicksend-csharp-standard</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>IO.ClickSend.Standard</PackageId>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />

@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/FireMate-Software/clicksend-csharp-standard</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageId>IO.ClickSend.Standard</PackageId>
+    <Description>.NET standard fork of ClickSend SDK</Description>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
